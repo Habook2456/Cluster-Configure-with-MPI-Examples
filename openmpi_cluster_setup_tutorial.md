@@ -1,5 +1,5 @@
-# Cluster-Configure-with-MPI-Examples
-# Tutorial Rápido: Configuración de Clúster con OpenMPI
+
+# Tutorial: Configuración de Clúster con OpenMPI
 
 Este tutorial describe cómo configurar rápidamente un clúster con OpenMPI para ejecutar aplicaciones en paralelo y distribuidas.
 
@@ -83,4 +83,10 @@ Este tutorial describe cómo configurar rápidamente un clúster con OpenMPI par
      mpirun --hostfile hostfile -np 4 ./hola_mundo
      ```
 
-Con estos pasos sencillos, ya tendrás tu clúster listo para ejecutar código con OpenMPI.
+
+## Contribuidores
+  - Anthony Mamani 
+  - Justo Perez
+  - Abimael Ruiz
+  - Mariana Caceres
+  - Emmanuel Galdos
