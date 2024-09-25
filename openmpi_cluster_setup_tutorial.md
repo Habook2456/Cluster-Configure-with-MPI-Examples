@@ -84,9 +84,9 @@ Este tutorial describe cómo configurar rápidamente un clúster con OpenMPI par
      ```
 
 
-## Contribuidores
-  - Anthony Mamani 
-  - Justo Perez
-  - Abimael Ruiz
-  - Mariana Caceres
-  - Emmanuel Galdos
+---
+### Contributors
+- Anthony Mamani  
+- Justo Perez
+- Mariana Caceres
+- Abimael Ruiz
